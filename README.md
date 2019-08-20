@@ -6,4 +6,4 @@ This function is triggered by a pubsub topic with a payload like
 
 To update multiple coin-currency combinations a cloud scheduler job is created with a json paylod per combination
 
-[![IMAGE ALT TEXT HERE](https://www.lucidchart.com/documents/embeddedchart/cc62bf0d-d273-4ec1-9708-8cb04f994fc4)](https://www.lucidchart.com/documents/embeddedchart/cc62bf0d-d273-4ec1-9708-8cb04f994fc4)
+![Diagram](https://raw.githubusercontent.com/mikeyoungyoung/node-crypto-to-airtable/master/NodeCrypto.png)
