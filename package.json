@@ -1,0 +1,10 @@
+{
+  "name": "sample-pubsub",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.18.0",
+    "airtable": "^0.7.1",
+    "request":"2.88.0",
+    "coinbase":"2.0.8"
+  }
+}
